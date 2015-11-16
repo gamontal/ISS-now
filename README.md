@@ -18,7 +18,3 @@ $ issnow
 ```
 
 **For information about the API and data source visit http://open-notify.org/Open-Notify-API/ISS-Location-Now/**
-
-## Disclaimer
-
-I did this for fun.
