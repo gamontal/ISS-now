@@ -1,0 +1,29 @@
+{
+    "name": "issnow",
+    "version": "1.0.0",
+    "description": "Prints out the current location of the International Space Station.",
+    "main": "issnow.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gmontalvoriv/ISS-now.git"
+  },
+    "keywords": [
+      "iss",
+      "nasa",
+      "space"
+  ],
+  "author": "Gabriel Montalvo",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/gmontalvoriv/ISS-now/issues"
+  },
+    "homepage": "https://github.com/gmontalvoriv/ISS-now#readme",
+    "preferGlobal": true,
+    "dependencies": {
+	"colors": "^1.1.2",
+	"request": "^2.65.0"
+    }
+}
